@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(224, 19, 132, 0.849);
+    background-color: white;
     font-family: Bai Jamjuree;
 }
 
@@ -9,7 +9,7 @@ display: flex;
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: darkblue;
+    background-color: antiquewhite;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
