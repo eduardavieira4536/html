@@ -17,7 +17,7 @@ display: flex;
 
 .cartao__conteudo{
     text-align: center;
-    background-color: black;
+    background-color: aliceblue;
     height: 100%;
 }
 
@@ -35,7 +35,7 @@ font-size: 1vw;
 
 
 footer {
-    background-color: black;
+    background-color: aliceblue;
     color: white;
     position: fixed;
     bottom: 0;
