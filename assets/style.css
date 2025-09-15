@@ -25,7 +25,6 @@ display: flex;
 .cartao__conteudo{
     background-color: var(--card-front-color);
     text-align: center;
-    background-color: aliceblue;
     height: 100%;
 }
 
@@ -41,8 +40,8 @@ font-size: 1vw;
 }
 
 .cartao__conteudo p {
-    margin-top: 1rem;
-    padding: 2rem;
+    margin-top: 2rem;
+    padding: 3rem;
 }
 
 .cartao__conteudo__pergunta {
@@ -52,8 +51,6 @@ color: var(--text-color);
 .cartao__conteudo__resposta {
     color: var(--card-back-color);
 }
-
-
 
 
 
